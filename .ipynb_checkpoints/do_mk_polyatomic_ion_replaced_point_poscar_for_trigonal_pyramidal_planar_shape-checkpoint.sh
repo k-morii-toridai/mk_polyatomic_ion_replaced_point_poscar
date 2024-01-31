@@ -1,0 +1,14 @@
+# # CO3
+# time python3 do_mk_polyatomic_ion_replaced_point_poscar_for_trigonal_pyramidal_planar_shape.py CO3 C O 0.99 1.66 ../get_some_ion_contained_pos_folder_p_list/CO3_contained_poscar_folder_path_list_ver2.npy
+
+#IO3
+time python3 do_mk_polyatomic_ion_replaced_point_poscar_for_trigonal_pyramidal_planar_shape.py IO3 I O 1.49 2.35 ../get_some_ion_contained_pos_folder_p_list/IO3_contained_poscar_folder_path_list_ver2.npy
+
+#BrO3
+time python3 do_mk_polyatomic_ion_replaced_point_poscar_for_trigonal_pyramidal_planar_shape.py BrO3 Br O 1.33 2.12 ../get_some_ion_contained_pos_folder_p_list/BrO3_contained_poscar_folder_path_list_ver2.npy
+
+#ClO3
+time python3 do_mk_polyatomic_ion_replaced_point_poscar_for_trigonal_pyramidal_planar_shape.py ClO3 Cl O 1.22 1.94 ../get_some_ion_contained_pos_folder_p_list/ClO3_contained_poscar_folder_path_list_ver2.npy
+
+#NO3
+time python3 do_mk_polyatomic_ion_replaced_point_poscar_for_trigonal_pyramidal_planar_shape.py NO3 N O 0.94 1.61 ../get_some_ion_contained_pos_folder_p_list/NO3_contained_poscar_folder_path_list_ver2.npy
